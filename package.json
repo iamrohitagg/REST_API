@@ -1,0 +1,19 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "making rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psycho376/REST_API.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psycho376/REST_API/issues"
+  },
+  "homepage": "https://github.com/psycho376/REST_API#readme"
+}
